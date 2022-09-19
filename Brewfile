@@ -31,6 +31,7 @@ brew "go"
 brew "libpq"
 brew "nvm"
 brew "neovim"
+brew "TomAnthony/brews/itermocil"
 
 cask "iterm2"
 cask "karabiner-elements"
