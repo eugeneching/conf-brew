@@ -29,7 +29,6 @@ brew "ncdu"
 brew "diff-so-fancy"
 brew "go"
 brew "libpq"
-brew "koekeishiya/formulae/yabai"
 brew "nvm"
 brew "neovim"
 
