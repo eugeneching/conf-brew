@@ -56,7 +56,8 @@ cask "dbeaver-community"
 cask "transmission"
 cask "docker"
 cask "anydesk"
-# cask "microsoft-office"
+cask "microsoft-office"
+cask "musescore"
 
 mas "paste", id:967805235
 mas "Microsoft Remote Desktop", id:1295203466
