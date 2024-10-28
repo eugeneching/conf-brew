@@ -61,6 +61,7 @@ cask "whatsapp"
 cask "telegram"
 cask "musescore"
 cask "fantastical"
+cask "capcut"
 
 mas "paste", id:967805235
 mas "Microsoft Remote Desktop", id:1295203466
