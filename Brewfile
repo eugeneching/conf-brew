@@ -52,15 +52,15 @@ cask "adobe-acrobat-reader"
 cask "adobe-creative-cloud"
 cask "google-drive"
 cask "zoom"
-cask "todoist"
 cask "dbeaver-community"
 cask "transmission"
 cask "docker"
 cask "anydesk"
 cask "microsoft-office"
 cask "whatsapp"
-cask "telegram-a"
+cask "telegram"
 cask "musescore"
+cask "fantastical"
 
 mas "paste", id:967805235
 mas "Microsoft Remote Desktop", id:1295203466
