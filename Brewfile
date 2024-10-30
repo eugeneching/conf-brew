@@ -33,6 +33,7 @@ brew "go"
 brew "libpq"
 brew "nvm"
 brew "neovim"
+brew "pwgen"
 brew "TomAnthony/brews/itermocil"
 
 cask "iterm2"
